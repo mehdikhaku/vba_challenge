@@ -4,14 +4,9 @@
 
 ### Background
 
-You are well on your way to becoming a programmer and Excel expert! In this homework assignment, you will use VBA scripting to analyze generated stock market data.
+Crowdfunding platforms like Kickstarter and Indiegogo have been growing in success and popularity since the late 2000s. From independent content creators to famous celebrities, more and more people are using crowdfunding to launch new products and generate buzz, but not every project has found success.
 
-You will create a script that loops through all the stocks for one year and outputs the following information:
-- The ticker symbol
-- Yearly change from the opening price at the beginning of a given year to the closing price at the end of that year.
-- The percentage change from the opening price at the beginning of a given year to the closing price at the end of that year.
-- The total stock volume of the stock.
-- Use conditional formatting that will highlight positive changes in green and negative changes in red.
+To receive funding, the project must meet or exceed an initial goal, so many organizations dedicate considerable resources looking through old projects in an attempt to discover “the trick” to finding success. For this week's Challenge, you will organize and analyze a database of 1,000 sample projects to uncover any hidden trends.
 
 ### Instructions
 For detailed instructions, refer to the [Instructions PDF](instructions.pdf).
