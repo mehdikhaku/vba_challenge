@@ -1,7 +1,17 @@
-# vba_challenge
-Submission of Module 2 Challenge Assignment
-Most scripts I created myself using examples from the various activities 
-The matching script was copied from the professor's example solution 
-Additional functions not requested in the exercise were pulled from Google to format cells including bold titles and autofit (this was done just for me to keep learning). 
+# Crowdfunding Analysis of Trends
 
-2nd Attempt - updated VBA code - refer to file names ending with "2nd_Attempt" 
+## Module 1 Assignment - Excel Challenge
+
+### Background
+
+You are well on your way to becoming a programmer and Excel expert! In this homework assignment, you will use VBA scripting to analyze generated stock market data.
+
+You will create a script that loops through all the stocks for one year and outputs the following information:
+- The ticker symbol
+- Yearly change from the opening price at the beginning of a given year to the closing price at the end of that year.
+- The percentage change from the opening price at the beginning of a given year to the closing price at the end of that year.
+- The total stock volume of the stock.
+- Use conditional formatting that will highlight positive changes in green and negative changes in red.
+
+### Instructions
+For detailed instructions, refer to the [Instructions PDF](instructions.pdf).
